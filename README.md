@@ -17,3 +17,5 @@
 * GraphQL
 * TypeScript
 * REDIS
+
+**Consider this repo for guidance:** https://github.com/goldbergyoni/nodebestpractices
