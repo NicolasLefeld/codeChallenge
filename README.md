@@ -6,9 +6,7 @@
 
 (Both MS on Express for simplicity)
 
-4. Dockerize it 
-
-5. Minify the docker (Distroless)
+4. Dockerize it then minify the imgage (Distroless)
 
 **Consider appliying**
 
